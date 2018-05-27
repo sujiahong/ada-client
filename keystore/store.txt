@@ -1,0 +1,11 @@
+key.store.password=mahjong123456
+key.alias=mahjong
+key.alias.password=mahjong123456
+
+н╒пе
+mj@niren.org
+Beijing2017
+
+talkingdata
+mj@niren.org
+beijing2017

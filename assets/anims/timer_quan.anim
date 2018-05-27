@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "timer_quan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0.016666666666666666,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0.1,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

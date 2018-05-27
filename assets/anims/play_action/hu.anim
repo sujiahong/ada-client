@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "753ccfbe-c03d-4f77-9369-6d06a042a8da"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "c0a732fa-548d-4005-b19d-484766f805b9"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ab32aa5e-22f2-49a5-b743-f6cbf4ec179e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f5f134f8-518c-4975-9af1-94e21f161a65"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "f6a71f4b-30c2-4a79-b8eb-56e398bbca64"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "e63076b0-a841-4c94-9401-fe36ffda7b52"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "948826fd-a9b7-4e11-a3a5-2d827b7de0f4"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "bc29dbf9-e2d4-489f-9dca-3ac5f8690e53"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

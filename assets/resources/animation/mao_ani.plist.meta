@@ -1,0 +1,32 @@
+{
+  "ver": "1.2.4",
+  "uuid": "e5a49601-a699-433d-a3b3-802754b23957",
+  "size": {
+    "width": 256,
+    "height": 256
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "mao_ani_000.png": {
+      "ver": "1.0.3",
+      "uuid": "bfa97e46-0a6b-4aff-a19f-711658de13a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 205,
+      "height": 181,
+      "rawWidth": 277,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

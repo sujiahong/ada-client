@@ -1,0 +1,24 @@
+{
+  "appKey": "48CBDBF9-B043-780E-288D-3F5DA799BA1D",
+  "appSecret": "1cbd0dccc965aa33f1312acd4e37260b",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": true,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": true
+  },
+  "packageName": "cn.zhangyuhudong.mahjong",
+  "privateKey": "834CC380F0594110E1B7448DD8D64EE9",
+  "renderMode": "0",
+  "startScene": "4fd83727-2e20-41c5-916d-19b576bb0d89",
+  "title": "majiang",
+  "webOrientation": "landscape"
+}
